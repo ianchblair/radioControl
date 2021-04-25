@@ -1,4 +1,4 @@
-Arduino sketches for radio control using nRF24 based on "HowToMechatronics"  design. (www.HowTMechatronics.com).
+Arduino sketches for radio control using nRF24 based on "HowToMechatronics"  design. (www.HowToMechatronics.com).
 These are adapted slightly to suit a radio controlled boat.
 The transmitter (rc_tx) continuously sends a map of the button and lever settings to the receiver.
 The receiver converts these to outputs (servo style for the ESC and rudder, switched logic for the pushbuttons, 
